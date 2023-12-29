@@ -1,7 +1,10 @@
 # 倩女輔助
+
 # YouTube視頻和下載點
 - [YouTube視頻](https://youtu.be/s16lZm9mT8o?si=QiBDtaG_TwKeELUd)
 - 下載點: [Ghost.zip](https://chtineer.com/GameSupport/Ghost.zip) (可自行安裝或通過Line ID ssky0212請求安裝幫助)
+
+![這是一張示例圖片](https://chtineer.com/png/VikingSupport.png)
 
 ## 「其他」注意事項
 - 模擬器型號為SM-G965N。
