@@ -3,6 +3,7 @@
 # YouTube視頻和下載點
 - [YouTube視頻](https://youtu.be/s16lZm9mT8o?si=QiBDtaG_TwKeELUd)
 - 下載點: [Ghost.zip](https://chtineer.com/GameSupport/Ghost.zip) (可自行安裝或通過Line ID ssky0212請求安裝幫助)
+- 為什麼會報毒，因為它需要偵測以及控制模擬器
 
 ![這是一張示例圖片](https://chtineer.com/png/VikingSupport.png)
 
