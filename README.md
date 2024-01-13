@@ -5,10 +5,11 @@
 - 下載點: [Ghost.zip](https://chtineer.com/GameSupport/Ghost.zip) (可自行安裝或通過Line ID ssky0212請求安裝幫助)
 - 為什麼會報毒，因為它需要偵測以及控制模擬器
 
-![這是一張示例圖片](https://chtineer.com/png/VikingSupport.png)
+![這是一張示例圖片](https://chtineer.com/png/GhostSupport.png)
 
 ## 「其他」注意事項
 - 模擬器型號為SM-G965N。
+- 點觸操作建議關閉，精緻度、解析度為高。
 - 另有遊戲幣1000台:5500萬，New5~10、13供應中。
 
 ## 「自動」注意事項
