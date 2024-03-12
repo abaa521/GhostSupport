@@ -1,7 +1,7 @@
 # 倩女輔助
 
-# YouTube視頻和下載點
-- [YouTube視頻](https://youtu.be/s16lZm9mT8o?si=QiBDtaG_TwKeELUd)
+# YouTube影片和下載點
+- [YouTube影片](https://youtu.be/s16lZm9mT8o?si=QiBDtaG_TwKeELUd)
 - 下載點: [Ghost.zip](https://chtineer.com/GameSupport/Ghost.zip) (可自行安裝或通過Line ID ssky0212請求安裝幫助)
 - 為什麼會報毒，因為它需要偵測以及控制模擬器
 
@@ -21,7 +21,8 @@
 
 ### (二) 種菜 (需有寶寶田園)
 - 先將寶寶帶在身上。
-- 寶寶收取後會種植同樣的菜，建議種植15分鐘的菜、開6格菜圃，每天好幾萬。
+- 設定時間6分鐘(寶寶派出5分鐘即會回家)
+- 寶寶收取後會種植同樣的菜，建議種植效率最高的菜(35分鐘)、開6格菜圃，每天好幾萬。
 - 不會因跳出簽到、高昌、大盜等訊息中斷。
 
 ### (三) 寶圖
