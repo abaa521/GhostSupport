@@ -6,6 +6,8 @@
 - [YouTube影片](https://youtu.be/s16lZm9mT8o?si=QiBDtaG_TwKeELUd)
 - 下載點: [Ghost.zip](https://chtineer.com/GameSupport/Ghost.zip) (可自行安裝或通過Line: ssky0212，協助安裝)
 - 為什麼會報毒，因為它需要偵測以及控制模擬器
+- [chrome](https://azo-edu.blogspot.com/2014/12/chrome.html)
+- [edge](https://blog.darkthread.net/blog/chrome-potentially-dangerous-files/)
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/GhostSupport.png)
 
