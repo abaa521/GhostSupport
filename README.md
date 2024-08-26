@@ -4,7 +4,7 @@
 
 # YouTube影片和下載點
 - [YouTube影片](https://youtu.be/s16lZm9mT8o?si=QiBDtaG_TwKeELUd)
-- 下載點: [Ghost.zip](https://chtineer.com/GameSupport/Ghost.zip) (用edge下載不會被封鎖) (可自行安裝或通過Line: ssky0212，協助安裝) 
+- 下載點: [Ghost.zip](https://chtineer.com/GhostSupport/GameSupport.zip) (用edge下載不會被封鎖) (可自行安裝或通過Line: ssky0212，協助安裝) 
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/GhostSupport.png)
 
