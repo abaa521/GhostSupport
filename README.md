@@ -6,16 +6,16 @@
 - [YouTube影片](https://youtu.be/s16lZm9mT8o?si=QiBDtaG_TwKeELUd)
 - 下載點: [GameSupport.zip](https://chtineer.com/GhostSupport/GameSupport.zip) (建議用EDGE下載) (可自行安裝或通過Line: ssky0212，協助安裝) 
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/GhostSupport.png)
+![這是一張示例圖片](https://chtineer.com/Images/GhostSupport.png)
 
 ## 「重要」注意事項
 - 模擬器型號為samsung、SM-G965N。
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/倩女機型設定.png)
+![這是一張示例圖片](https://chtineer.com/Images/倩女機型設定.png)
 
 - 點觸操作關閉，精緻度為低、解析度為高。
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/倩女遊戲內設定.png)
+![這是一張示例圖片](https://chtineer.com/Images/倩女遊戲內設定.png)
 
 ## 「自動」注意事項
 ### 跑龍
