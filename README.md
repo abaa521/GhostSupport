@@ -9,9 +9,14 @@
 ![這是一張示例圖片](https://images.chtineer.com//GhostSupport.png)
 
 ## 「重要」注意事項
-- 模擬器型號為samsung、SM-G965N。
+- 模擬器型號為samsung、SM-G965N，設定完成後重啟模擬器
 
 ![這是一張示例圖片](https://images.chtineer.com//倩女機型設定.png)
+
+- 設定完成後會頭像會有一點距離
+
+![這是一張示例圖片](https://images.chtineer.com//倩女遊戲畫面.png)
+
 
 - 點觸操作關閉，精緻度為低、解析度為高。
 
