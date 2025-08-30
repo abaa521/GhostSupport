@@ -18,7 +18,7 @@
 ![這是一張示例圖片](https://images.chtineer.com//倩女遊戲畫面.png)
 
 
-- 點觸操作關閉，精緻度為低、解析度為高。
+- 點觸操作關閉，精緻度為低、解析度任意。
 
 ![這是一張示例圖片](https://images.chtineer.com//倩女遊戲內設定.png)
 
